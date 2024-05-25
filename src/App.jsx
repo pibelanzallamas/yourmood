@@ -18,11 +18,13 @@ function App() {
 
   return (
     <div className="all">
-      <h1>Mood Checker</h1>
+      <h1>
+        <u>Mood Checker</u>
+      </h1>
       <br />
       <div className="consigna">
         <p>
-          Como se encuentra hoy?:
+          ¿Cómo se encuentra hoy?
           <br />
           1. feliz
           <br />
@@ -36,7 +38,7 @@ function App() {
           <br />
           6. aburrido
           <br />
-          7. extremo
+          7. eufórico
           <br />
           8. calmado
           <br />
@@ -47,7 +49,7 @@ function App() {
       </div>
       <br />
       <div className="input">
-        <label>Ingrese una opción</label>
+        <label>Ingrese una opción:</label>
         <br />
         <br />
         <form onSubmit={handleSubmit}>
@@ -70,14 +72,13 @@ function App() {
       {album.link ? (
         <div className="video">
           <iframe
-            width="560"
-            height="315"
             src={album.link}
             title="YouTube video player"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin"
             allowfullscreen
+            className="frame"
           ></iframe>
         </div>
       ) : (
