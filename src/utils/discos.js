@@ -98,6 +98,10 @@ export const discos = {
       name: "all star",
       link: "https://www.youtube.com/embed/L_jWHffIx5E?si=LZu-MKIDxFESI0cj",
     },
+    {
+      name: "wilmas rainbow",
+      link: "https://www.youtube.com/embed/k3a8Ow-DoAw?si=FUk4MFlgdiTQapR_",
+    },
   ],
   //calmado
   8: [
@@ -116,6 +120,10 @@ export const discos = {
     {
       name: "#3",
       link: "https://www.youtube.com/embed/fkvZOvOeON0?si=tPOW2IjnsFK9ENEO",
+    },
+    {
+      name: "black hole sun",
+      link: "https://www.youtube.com/embed/3mbBbFH9fAg?si=iyvqGtROctCGUc7Z",
     },
     // {
     //   name: "beach music",
