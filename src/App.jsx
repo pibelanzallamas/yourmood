@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import "./styles/app.css";
 import { discos } from "./utils/discos";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   const [respuesta, setRespuesta] = useState(0);
@@ -18,6 +19,7 @@ function App() {
 
   return (
     <div className="all">
+      <Analytics />
       <h1>
         <u>Mood Checker</u>
       </h1>
