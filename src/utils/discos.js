@@ -125,6 +125,10 @@ export const discos = {
       name: "black hole sun",
       link: "https://www.youtube.com/embed/3mbBbFH9fAg?si=iyvqGtROctCGUc7Z",
     },
+    {
+      name: "where is my ",
+      link: "https://www.youtube.com/embed/OJ62RzJkYUo?si=nWky-ZVxMM1encL0",
+    },
     // {
     //   name: "beach music",
     //   link: "https://www.youtube.com/watch?v=whcj9VHBLjU&list=PLZqsyBiYZFQ3jhJRkYMt5RH5R96tYBRf3",
