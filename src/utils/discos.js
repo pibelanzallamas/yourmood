@@ -9,12 +9,10 @@ export const discos = {
       name: "bittersweet",
       link: "https://www.youtube.com/embed/1lyu1KKwC74?si=Vd48vEYmeaP3Kw_2",
     },
-
     {
-      name: "shalalala",
-      link: "https://www.youtube.com/embed/dAlRXC19hmE?si=ZZGHQ_KKEbC8L8pv",
+      name: "devil in her heart",
+      link: "https://www.youtube.com/embed/IGe-jfFrxCk?si=ZZGHQ_KKEbC8L8pv",
     },
-
     {
       name: "avrivadavia",
       link: "https://www.youtube.com/embed/QAw8Wce_QpA?si=swi_KbTx16lQYz6u",
@@ -37,10 +35,6 @@ export const discos = {
       name: "dead and bloader",
       link: "https://www.youtube.com/embed/SCx_uiSdC_c?si=W6zTIrAyIEN3mkbC",
     },
-    // {
-    //   name: "mouth of war",
-    //   link: "https://www.youtube.com/watch?v=FTOilfxhwxs",
-    // },
   ],
   //con miedo
   4: [
@@ -48,14 +42,6 @@ export const discos = {
       name: "27",
       link: "https://www.youtube.com/embed/SCx_uiSdC_c?si=W6zTIrAyIEN3mkbC",
     },
-    // {
-    //   name: "the first four years",
-    //   link: "https://youtu.be/z3QBw7WKRiU?si=GUCX-UtBIfOJ2Va0",
-    // },
-    // {
-    //   name: "los compadres",
-    //   link: "https://youtu.be/QSxXQ38AeJo?si=lxnY5LomNRZTtqe9",
-    // },
   ],
   //con ansiedad
   5: [
@@ -63,19 +49,6 @@ export const discos = {
       name: "dancefloor",
       link: "https://www.youtube.com/embed/pK7egZaT3hs?si=pFIux_XcULQ6FeXO",
     },
-
-    // {
-    //   name: "flowers",
-    //   link: "https://www.youtube.com/watch?v=Ph3Raj7Jyk0&pp=ygUWZ2FsYXhpZSA1MDAgZnVsbCBhbGJ1bQ%3D%3D",
-    // },
-    // {
-    //   name: "on fire",
-    //   link: "https://youtu.be/vsfvdGjL4Yo?si=ZeqObXDkOXsJoRxO",
-    // },
-    // {
-    //   name: "souvlaki",
-    //   link: "https://youtu.be/HpzZ_sslsHM?si=CO3JjI52TFMs0UhH",
-    // },
   ],
   //aburrido
   6: [
@@ -109,11 +82,6 @@ export const discos = {
       name: "straberry",
       link: "https://www.youtube.com/embed/t1Jm5epJr10?si=hFz_4aQhFRX9zSCj",
     },
-    // { name: "loveless", link: "https://www.youtube.com/watch?v=bRtGBlOVLCk" },
-    // {
-    //   name: "fresh air",
-    //   link: "https://www.youtube.com/watch?v=ps8D1Fu-K8E",
-    // },
   ],
   //confundido
   9: [
@@ -129,18 +97,6 @@ export const discos = {
       name: "where is my ",
       link: "https://www.youtube.com/embed/OJ62RzJkYUo?si=nWky-ZVxMM1encL0",
     },
-    // {
-    //   name: "beach music",
-    //   link: "https://www.youtube.com/watch?v=whcj9VHBLjU&list=PLZqsyBiYZFQ3jhJRkYMt5RH5R96tYBRf3",
-    // },
-    // {
-    //   name: "dots and loops",
-    //   link: "https://youtu.be/vbeJ4-OMorU?si=IAEMK2wy-DL6amvZ",
-    // },
-    // {
-    //   name: "they spent their wildful years in the saloon",
-    //   link: "https://youtu.be/S1rTKIsDS8o?si=Xl7N9X_myV07HEjl",
-    // },
   ],
   //pensativo
   10: [
