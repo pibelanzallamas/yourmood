@@ -73,6 +73,7 @@ function App() {
       {album.link ? (
         <>
           <br />
+          <br />
           <div className="video">
             <iframe
               src={`${album.link}?autoplay=1&mute=1`}
