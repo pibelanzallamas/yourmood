@@ -70,19 +70,21 @@ function App() {
           <button>Enviar</button>
         </form>
       </div>
-      <br />
       {album.link ? (
-        <div className="video">
-          <iframe
-            src={`${album.link}?autoplay=1&mute=1`}
-            title="YouTube video player"
-            frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            referrerpolicy="strict-origin-when-cross-origin"
-            allowfullscreen
-            className="frame"
-          ></iframe>
-        </div>
+        <>
+          <br />
+          <div className="video">
+            <iframe
+              src={`${album.link}?autoplay=1&mute=1`}
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen
+              className="frame"
+            ></iframe>
+          </div>
+        </>
       ) : (
         <></>
       )}
