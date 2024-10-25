@@ -23,33 +23,21 @@ function App() {
       <h1>
         <u>Mood Checker</u>
       </h1>
-      <br />
       <div className="consigna">
-        <p>
-          ¿Cómo se encuentra hoy?
-          <br />
-          1. feliz
-          <br />
-          2. triste
-          <br />
-          3. enojado
-          <br />
-          4. miedoso
-          <br />
-          5. ansioso
-          <br />
-          6. aburrido
-          <br />
-          7. eufórico
-          <br />
-          8. calmado
-          <br />
-          9. confundido
-          <br />
-          10.pensativo
-        </p>
+        <p> ¿Cómo se encuentra hoy?</p>
+        <ol>
+          <li> 1. feliz</li>
+          <li>2. triste</li>
+          <li> 3. enojado</li>
+          <li> 4. miedoso</li>
+          <li>5. ansioso</li>
+          <li> 6. aburrido</li>
+          <li> 7. eufórico</li>
+          <li>8. calmado</li>
+          <li>9. confundido</li>
+          <li>10.pensativo</li>
+        </ol>
       </div>
-      <br />
       <div className="input">
         <label>Ingrese una opción:</label>
         <br />
