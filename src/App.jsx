@@ -54,7 +54,7 @@ function App() {
       {album.link && (
         <div className="video">
           <iframe
-            src={album.link}
+            src={`${album.link}?mute=0`}
             title="YouTube video player"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
