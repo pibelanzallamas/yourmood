@@ -26,56 +26,43 @@ function App() {
       <div className="consigna">
         <p> ¿Cómo se encuentra hoy?</p>
         <ol>
-          <li> 1. feliz</li>
-          <li>2. triste</li>
-          <li> 3. enojado</li>
-          <li> 4. miedoso</li>
-          <li>5. ansioso</li>
-          <li> 6. aburrido</li>
-          <li> 7. eufórico</li>
-          <li>8. calmado</li>
-          <li>9. confundido</li>
-          <li>10.pensativo</li>
+          <li>feliz</li>
+          <li>triste</li>
+          <li>enojado</li>
+          <li>miedoso</li>
+          <li>ansioso</li>
+          <li>aburrido</li>
+          <li>eufórico</li>
+          <li>calmado</li>
+          <li>confundido</li>
+          <li>reflexivo</li>
         </ol>
       </div>
-      <div className="input">
-        <label>Ingrese una opción:</label>
-        <br />
-        <br />
-        <form onSubmit={handleSubmit}>
-          <input
-            type="number"
-            value={respuesta}
-            onChange={(e) => setRespuesta(e.target.value)}
-            placeholder="Ingrese una opción"
-            required
-            min={1}
-            max={10}
-            autoFocus
-          ></input>
-          <br />
-          <br />
-          <button>Enviar</button>
-        </form>
-      </div>
-      {album.link ? (
-        <>
-          <br />
-          <br />
-          <div className="video">
-            <iframe
-              src={`${album.link}?autoplay=1&mute=1`}
-              title="YouTube video player"
-              frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-              referrerpolicy="strict-origin-when-cross-origin"
-              allowfullscreen
-              className="frame"
-            ></iframe>
-          </div>
-        </>
-      ) : (
-        <></>
+      <form onSubmit={handleSubmit}>
+        <label htmlFor="form">Ingrese una opción:</label>
+        <input
+          type="number"
+          id="form"
+          value={respuesta}
+          onChange={(e) => setRespuesta(e.target.value)}
+          required
+          min={1}
+          max={10}
+        ></input>
+        <button>Enviar</button>
+      </form>
+      {album.link && (
+        <div className="video">
+          <iframe
+            src={album.link}
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin"
+            allowfullscreen
+            className="frame"
+          ></iframe>
+        </div>
       )}
     </div>
   );
