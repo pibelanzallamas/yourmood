@@ -10,10 +10,6 @@ export const discos = {
       link: "https://www.youtube.com/embed/1lyu1KKwC74?si=Vd48vEYmeaP3Kw_2",
     },
     {
-      name: "devil in her heart",
-      link: "https://www.youtube.com/embed/IGe-jfFrxCk?si=ZZGHQ_KKEbC8L8pv",
-    },
-    {
       name: "avrivadavia",
       link: "https://www.youtube.com/embed/QAw8Wce_QpA?si=swi_KbTx16lQYz6u",
     },
@@ -79,8 +75,8 @@ export const discos = {
   //calmado
   8: [
     {
-      name: "straberry",
-      link: "https://www.youtube.com/embed/t1Jm5epJr10?si=hFz_4aQhFRX9zSCj",
+      name: "norwianwood",
+      link: "https://www.youtube.com/embed/Y_V6y1ZCg_8?si=Uteta_1PWc1UGHZm",
     },
   ],
   //confundido
@@ -94,15 +90,15 @@ export const discos = {
       link: "https://www.youtube.com/embed/3mbBbFH9fAg?si=iyvqGtROctCGUc7Z",
     },
     {
-      name: "where is my ",
+      name: "where is my mind",
       link: "https://www.youtube.com/embed/OJ62RzJkYUo?si=nWky-ZVxMM1encL0",
     },
   ],
   //pensativo
   10: [
     {
-      name: "norwianwood",
-      link: "https://www.youtube.com/embed/Y_V6y1ZCg_8?si=Uteta_1PWc1UGHZm",
+      name: "straberry",
+      link: "https://www.youtube.com/embed/t1Jm5epJr10?si=hFz_4aQhFRX9zSCj",
     },
   ],
 };
