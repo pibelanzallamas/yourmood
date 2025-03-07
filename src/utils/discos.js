@@ -97,7 +97,7 @@ export const discos = {
   //pensativo
   10: [
     {
-      name: "straberry",
+      name: "walrus",
       link: "https://www.youtube.com/embed/t1Jm5epJr10?si=hFz_4aQhFRX9zSCj",
     },
   ],
