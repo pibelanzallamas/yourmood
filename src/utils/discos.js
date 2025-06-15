@@ -11,11 +11,11 @@ export const discos = {
     },
     {
       name: "semi charmed life",
-      link: "https://www.youtube.com/watch?v=beINamVRGy4"
+      link: "https://www.youtube.com/embed/beINamVRGy4"
     },
     {
       name: "jumper",
-      link: "https://www.youtube.com/watch?v=gRYZijLZR-Q"
+      link: "https://www.youtube.com/embed/gRYZijLZR-Q"
     }
   ],
   //triste
@@ -65,44 +65,4 @@ export const discos = {
   7: [
     {
       name: "break stuff",
-      link: "https://www.youtube.com/embed/ZpUYjpKg9KY?si=42YFJhB9r2m6dP6E",
-    },
-    {
-      name: "all star",
-      link: "https://www.youtube.com/embed/L_jWHffIx5E?si=LZu-MKIDxFESI0cj",
-    },
-    {
-      name: "hey ya!",
-      link: "https://www.youtube.com/embed/PWgvGjAhvIw?si=FUk4MFlgdiTQapR_",
-    },
-  ],
-  //calmado
-  8: [
-    {
-      name: "norwianwood",
-      link: "https://www.youtube.com/embed/Y_V6y1ZCg_8?si=Uteta_1PWc1UGHZm",
-    },
-  ],
-  //confundido
-  9: [
-    {
-      name: "#3",
-      link: "https://www.youtube.com/embed/fkvZOvOeON0?si=tPOW2IjnsFK9ENEO",
-    },
-    {
-      name: "black hole sun",
-      link: "https://www.youtube.com/embed/3mbBbFH9fAg?si=iyvqGtROctCGUc7Z",
-    },
-    {
-      name: "where is my mind",
-      link: "https://www.youtube.com/embed/OJ62RzJkYUo?si=nWky-ZVxMM1encL0",
-    },
-  ],
-  //pensativo
-  10: [
-    {
-      name: "qkthr",
-      link: "https://www.youtube.com/embed/9wCfNFmpL1s?si=hFz_4aQhFRX9zSCj",
-    },
-  ],
-};
+      link: "https://www.youtube.com/embed/ZpUYjpKg9KY?si=42YFJhB9
