@@ -10,15 +10,19 @@ export const discos = {
       link: "https://www.youtube.com/embed/1lyu1KKwC74?si=Vd48vEYmeaP3Kw_2",
     },
     {
-      name: "avrivadavia",
-      link: "https://www.youtube.com/embed/QAw8Wce_QpA?si=swi_KbTx16lQYz6u",
+      name: "semi charmed life",
+      link: "https://www.youtube.com/watch?v=beINamVRGy4"
     },
+    {
+      name: "jumper",
+      link: "https://www.youtube.com/watch?v=gRYZijLZR-Q"
+    }
   ],
   //triste
   2: [
     {
-      name: "tpdp e; doa ",
-      link: "https://www.youtube.com/embed/EuQBQnFEFUY?si=t4XZTGwXaGFOoGKu",
+      name: "she foudn",
+      link: "https://www.youtube.com/embed/rBKjhgHGVZs?si=r5ociQRP99nntHW9",
     },
     {
       name: "riot van",
@@ -28,7 +32,7 @@ export const discos = {
   //enojado
   3: [
     {
-      name: "dead and bloader",
+      name: "dead and bloaded",
       link: "https://www.youtube.com/embed/SCx_uiSdC_c?si=W6zTIrAyIEN3mkbC",
     },
   ],
@@ -49,8 +53,8 @@ export const discos = {
   //aburrido
   6: [
     {
-      name: "walrus",
-      link: "https://www.youtube.com/embed/wsRatIMUSu8?si=1y9xyDUBFeRdmhwe",
+      name: "strewberry fields",
+      link: "https://www.youtube.com/embed/HtUH9z_Oey8?si=1y9xyDUBFeRdmhwe",
     },
     {
       name: "hello goodbye",
@@ -97,8 +101,8 @@ export const discos = {
   //pensativo
   10: [
     {
-      name: "walrus",
-      link: "https://www.youtube.com/embed/t1Jm5epJr10?si=hFz_4aQhFRX9zSCj",
+      name: "qkthr",
+      link: "https://www.youtube.com/embed/9wCfNFmpL1s?si=hFz_4aQhFRX9zSCj",
     },
   ],
 };
