@@ -68,8 +68,8 @@ export const discos = {
       link: "https://www.youtube.com/embed/L_jWHffIx5E?si=LZu-MKIDxFESI0cj",
     },
     {
-      name: "wilmas rainbow",
-      link: "https://www.youtube.com/embed/k3a8Ow-DoAw?si=FUk4MFlgdiTQapR_",
+      name: "hey ya!",
+      link: "https://www.youtube.com/embed/PWgvGjAhvIw?si=FUk4MFlgdiTQapR_",
     },
   ],
   //calmado
