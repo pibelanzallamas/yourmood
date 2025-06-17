@@ -76,7 +76,9 @@ function App() {
           ></iframe> */}
         </div>
       )}
-      
+      <footer>
+        <p>Creado por Brandon Castillo ⚔️🏰</p>
+      </footer>      
     </div>
   );
 }
