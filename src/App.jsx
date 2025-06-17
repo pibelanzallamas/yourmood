@@ -2,10 +2,17 @@ import { useEffect, useState } from "react";
 import "./styles/app.css";
 import { discos } from "./utils/discos";
 import { Analytics } from "@vercel/analytics/react";
+import YouTube from "react-youtube";
 
 function App() {
   const [respuesta, setRespuesta] = useState(0);
   const [album, setAlbum] = useState({ name: "", link: "" });
+  const options = {
+    playerVars: {
+      autoplay: 1,
+      controls: 1,
+    }
+  }
 
   function handleSubmit(e) {
     e.preventDefault();
@@ -15,6 +22,10 @@ function App() {
 
     random = Math.floor(Math.random() * DISCOSXMOOD[respuesta].length);
     setAlbum(DISCOSXMOOD[respuesta][random]);
+  }
+  
+  const onReady = (event) =>{
+    event.target.playVideo()
   }
 
   return (
@@ -53,7 +64,8 @@ function App() {
       </form>
       {album.link && (
         <div className="video">
-          <iframe
+          <YouTube videoId={album.link} options={options} onReady={onReady}/>
+          {/* <iframe
             src={`${album.link}?mute=0`}
             title="YouTube video player"
             frameborder="0"
@@ -61,9 +73,10 @@ function App() {
             referrerpolicy="strict-origin-when-cross-origin"
             allowfullscreen
             className="frame"
-          ></iframe>
+          ></iframe> */}
         </div>
       )}
+      
     </div>
   );
 }
