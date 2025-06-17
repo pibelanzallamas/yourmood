@@ -80,6 +80,11 @@ form button {
   height: 25vh;
 }
 
+.space-black {
+  flex: 1;
+  margin-top: -1.5rem;
+}
+
 @media (min-width: 700px) {
   .all {
     font-size: 1.4rem;

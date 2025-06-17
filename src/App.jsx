@@ -76,8 +76,9 @@ function App() {
           ></iframe> */}
         </div>
       )}
+      <div className="space-black"></div>
       <footer>
-        <p>Creado por Brandon Castillo ⚔️🏰</p>
+        <p>Creado por Brandon Castillo 🔥</p>
       </footer>      
     </div>
   );
