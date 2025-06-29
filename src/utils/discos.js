@@ -60,6 +60,10 @@ export const discos = {
       name: "hello goodbye",
       link: "rblYSKz_VnI",
     },
+    {
+      name: "dueno de la nada",
+      link: "IyWCckKXSyI,
+    }
   ],
   //extremo
   7: [
