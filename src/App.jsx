@@ -32,7 +32,7 @@ function App() {
     <div className="all">
       <Analytics />
       <h1>
-        <u>Mood Checker</u>
+        <u>Your Mood</u>
       </h1>
       <div className="consigna">
         <p> ¿Cómo se encuentra hoy?</p>
