@@ -5,7 +5,7 @@ import { Analytics } from "@vercel/analytics/react";
 import YouTube from "react-youtube";
 
 function App() {
-  const [respuesta, setRespuesta] = useState(0);
+  const [respuesta , setRespuesta] = useState(0);
   const [album, setAlbum] = useState({ name: "", link: "" });
   const options = {
     playerVars: {
@@ -78,7 +78,7 @@ function App() {
       )}
       <div className="space-black"></div>
       <footer>
-        <p>Creado por Brandon Castillo 🔥</p>
+        <p>Hecho con ❤️ por Brandon 🏰</p>
       </footer>      
     </div>
   );
