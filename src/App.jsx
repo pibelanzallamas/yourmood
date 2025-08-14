@@ -1,6 +1,6 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import "./styles/app.css";
-import { discos } from "./utils/discos";
+import { discos } from "./utils/canciones";
 import { Analytics } from "@vercel/analytics/react";
 import YouTube from "react-youtube";
 

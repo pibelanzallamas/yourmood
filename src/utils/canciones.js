@@ -62,14 +62,18 @@ export const discos = {
     },
     {
       name: "dueno de la nada",
-      link: "IyWCckKXSyI,
+      link: "IyWCckKXSyI",
     }
   ],
-  //extremo
+  //eufórico
   7: [
     {
       name: "break stuff",
       link: "ZpUYjpKg9KY"
+    },
+    {
+      name: "all star",
+      link: "L_jWHffIx5E"
     }
   ]
 }
