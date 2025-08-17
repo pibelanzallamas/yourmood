@@ -49,13 +49,10 @@ export const discos = {
       name: "dancefloor",
       link: "pK7egZaT3hs",
     },
+
   ],
   //aburrido
   6: [
-    {
-      name: "strewberry fields",
-      link: "HtUH9z_Oey8",
-    },
     {
       name: "hello goodbye",
       link: "rblYSKz_VnI",
@@ -63,7 +60,12 @@ export const discos = {
     {
       name: "dueno de la nada",
       link: "IyWCckKXSyI",
+    },
+    {
+      name: "title fight - stab",
+      link: "B3E4Ig1DWek"
     }
+
   ],
   //eufórico
   7: [
@@ -75,5 +77,26 @@ export const discos = {
       name: "all star",
       link: "L_jWHffIx5E"
     }
+  ],
+  //calmado:
+  8:[
+    {
+      name: "strewberry",
+      link: "HtUH9z_Oey8",
+    },
+  ],
+  //confundido
+  9:[
+      {
+      name: "strewberry",
+      link: "HtUH9z_Oey8",
+    },
+  ],
+  //reflexivo
+  10:[
+      {
+      name: "strewberry",
+      link: "HtUH9z_Oey8",
+    },
   ]
 }
