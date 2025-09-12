@@ -64,7 +64,7 @@ export const discos = {
   4: [
     {
       name: "27",
-      link: "SCx_uiSdC_c",
+      link: "fKqKM-gvK_w",
     },
     {
       name: "the world is yours",
