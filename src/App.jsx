@@ -10,7 +10,7 @@ function App() {
   const options = {
     playerVars: {
       autoplay: 1,
-      controls: 1,
+      mute: 1
     }
   }
 
@@ -64,16 +64,16 @@ function App() {
       </form>
       {album.link && (
         <div className="video">
-          <YouTube videoId={album.link} options={options} onReady={onReady}/>
-          {/* <iframe
-            src={`${album.link}?mute=0`}
+          {/* <YouTube videoId={album.link} options={options} onReady={onReady}/> */}
+          <iframe
+            src={`https://www.youtube.com/embed/${album.link}?autoplay=1`}
             title="YouTube video player"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin"
             allowfullscreen
             className="frame"
-          ></iframe> */}
+          ></iframe>
         </div>
       )}
       <div className="space-black"></div>

@@ -21,16 +21,12 @@ export const discos = {
   //triste
   2: [
     {
-      name: "she found now",
-      link: "rBKjhgHGVZs",
+      name: "black hole sun",
+      link: "3mbBbFH9fAg",
     },
     {
       name: "riot van",
       link: "a62FZZa3fjE",
-    },
-    {
-      name: "dagger",
-      link: "NYsX51qP40o"
     },
     {
       name: "the lonely sea",
@@ -40,12 +36,12 @@ export const discos = {
   //enojado
   3: [
     {
-      name: "dead and bloaded",
-      link: "SCx_uiSdC_c",
-    },
-    {
       name: "break stuff",
       link: "ZpUYjpKg9KY"
+    },
+    {
+      name: "dead and bloaded",
+      link: "SCx_uiSdC_c",
     },
     {
       name: "engine no 9",
