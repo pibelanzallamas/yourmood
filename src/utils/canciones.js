@@ -41,8 +41,8 @@ export const discos = {
       link: "O_IIAYZL1R4"
     },
     {
-      name: "superheaven",
-      link: "VMk6i7Q0k54"
+      name: "im with you",
+      link: "dGR65RWwzg8"
     }
   ],
 
@@ -70,25 +70,31 @@ export const discos = {
   ],
 
 
+
+
+  
   //CON MIEEEDOO
   4: [
     {
       name: "27",
       link: "fKqKM-gvK_w",
     },
+      {
+      name: "theme bones",
+      link: "zTuD8k3JvxQ"
+    },
     {
-      name: "rabbid",
-      link: "Wv0PrgH6qxU"
+      name: "doubble bass",
+      link: "dGR65RWwzg8"
     },
     {
       name: "black n 1",
       link: "JmijMVT3x"
     },
     {
-      name: "theme bones",
-      link: "zTuD8k3JvxQ"
+      name: "rabbid",
+      link: "Wv0PrgH6qxU"
     },
-
   ],
 
 
@@ -101,21 +107,21 @@ export const discos = {
       link: "pK7egZaT3hs",
     },
     {
-      name: "the world is a guetto",
-      link: "dkVLHl63lUE"
-    },
-    {
       name: "complicated",
       link: "5NPBIwQyPWE"
+    },
+       {
+      name: "reptilia",
+      link: "dGR65RWwzg8"
     },
     {
       name: "i wanna be adored",
       link: "4D2qcbu26gs"
-    }
+    },
     {
-      name: "world gretest emoter",
-      link: "S9TNNIYEqmE"
-    }
+      name: "the world is a guetto",
+      link: "dkVLHl63lUE"
+    },
   ],
 
 
@@ -124,24 +130,24 @@ export const discos = {
   //  BOREEED
   6: [
     {
-      name: "hello goodbye",
-      link: "rblYSKz_VnI",
+      name: "alive",
+      link: "qM0zINtulhM"
     },
     {
       name: "stab",
       link: "B3E4Ig1DWek"
     },
     {
-      name: "flim",
-      link: "-yNHlKAzyVA"
+      name: "juicibox",
+      link: "dGR65RWwzg8"
     },
     {
-      name: "xtal",
-      link: "uXpKC8TIAxE"
+      name: "bored",
+      link: "dGR65RWwzg8"
     },
     {
-      name: "alive",
-      link: "qM0zINtulhM"
+      name: "hello goodbye",
+      link: "rblYSKz_VnI",
     }
   ],
 
@@ -164,6 +170,10 @@ export const discos = {
     {
       name: "pulsewidth",
       link: "TfInTQz0kdM"
+    },
+    {
+      name: "keloke",
+      link: "IusaPOwrfBc"
     }
   ],
 
@@ -171,6 +181,10 @@ export const discos = {
 
   //  CALMAO
   8:[
+        {
+      name: "strewberry",
+      link: "HtUH9z_Oey8",
+    },
     {
       name: "altogether",
       link: "suEY0WcOsxJg",
@@ -179,10 +193,7 @@ export const discos = {
       name: "teeanger",
       link: "rn2OM546an8"
     },
-    {
-      name: "strewberry",
-      link: "HtUH9z_Oey8",
-    },
+
   ],
 
 
@@ -191,13 +202,17 @@ export const discos = {
   // CONFUNDIDOOO
   9:[
     {
-      name: "a day in the life",
-      link: "usNsCeOV4GM",
-    },  
-    {
-      name: "stone in focus",
-      link: "q86g1aop6a8",
+      name: "flim",
+      link: "-yNHlKAzyVA"
     },
+    // {
+    //   name: "a day in the life",
+    //   link: "usNsCeOV4GM",
+    // },  
+    // {
+    //   name: "stone in focus",
+    //   link: "q86g1aop6a8",
+    // },
   ],
 
 
@@ -230,4 +245,13 @@ export const discos = {
 // enojado
 // triste
 // miedo
-// aburrido
+// aburrido  
+
+// {
+//       name: "xtal",
+//       link: "uXpK8CTIAxE"
+//     },
+//     {
+//       name: "in th eend",
+//       link: "eVTXPUF4Oz4"
+//     }
