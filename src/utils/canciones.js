@@ -29,9 +29,9 @@ export const discos = {
       link: "a62FZZa3fjE",
     },
     {
-      name: "the lonely sea",
-      link: "06B_1t6-WKM"
-    }
+      name: "no surprises",
+      link: "u5CVsCnxyXg"
+    },
   ],
   //enojado
   3: [
@@ -44,12 +44,12 @@ export const discos = {
       link: "SCx_uiSdC_c",
     },
     {
-      name: "engine no 9",
-      link: "OC8x9_App2I"
+      name: "bloody roots",
+      link: "F_6IjeprfEs"
     },
     {
-      name: "7 words",
-      link: "mEVik1nJb68"
+      name: "be quiet",
+      link: "KvknOXGPzCQ"
     },
     {
       name: "my name is mud",
@@ -63,8 +63,12 @@ export const discos = {
       link: "fKqKM-gvK_w",
     },
     {
-      name: "the world is yours",
-      link: "e5PnuIRnJW8"
+      name: "rabbid",
+      link: "Wv0PrgH6qxU"
+    },
+    {
+      name: "black n 1",
+      link: "JmijMVT3x"
     },
     {
       name: "life is a bitch",
