@@ -1,5 +1,5 @@
 export const discos = {
-  //feliz
+  //feliz =))
   1: [
     {
       name: "drive my car",
@@ -18,7 +18,11 @@ export const discos = {
       link: "gRYZijLZR-Q"
     }
   ],
-  //triste
+
+
+
+
+  // TRISTE :,,(
   2: [
     {
       name: "black hole sun",
@@ -32,8 +36,20 @@ export const discos = {
       name: "no surprises",
       link: "u5CVsCnxyXg"
     },
+    {
+      name: "digital bath",
+      link: "O_IIAYZL1R4"
+    },
+    {
+      name: "superheaven",
+      link: "VMk6i7Q0k54"
+    }
   ],
-  //enojado
+
+
+
+
+  //ENOJADOOOO!!
   3: [
     {
       name: "break stuff",
@@ -51,12 +67,10 @@ export const discos = {
       name: "be quiet",
       link: "KvknOXGPzCQ"
     },
-    {
-      name: "my name is mud",
-      link: "953PkxFNiko"
-    }
   ],
-  //con miedo
+
+
+  //CON MIEEEDOO
   4: [
     {
       name: "27",
@@ -71,11 +85,16 @@ export const discos = {
       link: "JmijMVT3x"
     },
     {
-      name: "life is a bitch",
-      link: "AxKleuLBRcw"
-    }
+      name: "theme bones",
+      link: "zTuD8k3JvxQ"
+    },
+
   ],
-  //con ansiedad
+
+
+
+
+  // ANSIOOOSOOO
   5: [
     {
       name: "dancefloor",
@@ -88,20 +107,28 @@ export const discos = {
     {
       name: "complicated",
       link: "5NPBIwQyPWE"
+    },
+    {
+      name: "i wanna be adored",
+      link: "4D2qcbu26gs"
+    }
+    {
+      name: "world gretest emoter",
+      link: "S9TNNIYEqmE"
     }
   ],
-  //aburrido
+
+
+
+
+  //  BOREEED
   6: [
     {
       name: "hello goodbye",
       link: "rblYSKz_VnI",
     },
     {
-      name: "dueno de la nada",
-      link: "IyWCckKXSyI",
-    },
-    {
-      name: "title fight - stab",
+      name: "stab",
       link: "B3E4Ig1DWek"
     },
     {
@@ -111,9 +138,16 @@ export const discos = {
     {
       name: "xtal",
       link: "uXpKC8TIAxE"
+    },
+    {
+      name: "alive",
+      link: "qM0zINtulhM"
     }
   ],
-  //eufórico
+
+
+
+  // EUFORRICOOO
   7: [
     {
       name: "rollin",
@@ -132,7 +166,10 @@ export const discos = {
       link: "TfInTQz0kdM"
     }
   ],
-  //calmado:
+
+
+
+  //  CALMAO
   8:[
     {
       name: "altogether",
@@ -147,7 +184,11 @@ export const discos = {
       link: "HtUH9z_Oey8",
     },
   ],
-  //confundido
+
+
+
+
+  // CONFUNDIDOOO
   9:[
     {
       name: "a day in the life",
@@ -158,7 +199,11 @@ export const discos = {
       link: "q86g1aop6a8",
     },
   ],
-  //reflexivo
+
+
+
+
+  // reflexivo
   10:[
     {
       name: "Rhubarb",
