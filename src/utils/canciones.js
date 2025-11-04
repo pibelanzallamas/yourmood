@@ -29,6 +29,10 @@ export const discos = {
       link: "3mbBbFH9fAg",
     },
     {
+      name: "behind blue eyes",
+      link: "Tr8uesBowS4"
+    },
+    {
       name: "riot van",
       link: "a62FZZa3fjE",
     },
@@ -69,10 +73,9 @@ export const discos = {
     },
   ],
 
-
-
-
   
+
+
   //CON MIEEEDOO
   4: [
     {
@@ -83,10 +86,7 @@ export const discos = {
       name: "theme bones",
       link: "zTuD8k3JvxQ"
     },
-    {
-      name: "doubble bass",
-      link: "dGR65RWwzg8"
-    },
+
     {
       name: "black n 1",
       link: "JmijMVT3x"
@@ -95,6 +95,11 @@ export const discos = {
       name: "rabbid",
       link: "Wv0PrgH6qxU"
     },
+    {      
+      name: "doubble bass",
+      link: "_ONnnlhrM"
+    },
+ 
   ],
 
 
@@ -119,8 +124,8 @@ export const discos = {
       link: "4D2qcbu26gs"
     },
     {
-      name: "the world is a guetto",
-      link: "dkVLHl63lUE"
+      name: "juicibox",
+      link: "dGR65RWwzg8"
     },
   ],
 
@@ -137,18 +142,10 @@ export const discos = {
       name: "stab",
       link: "B3E4Ig1DWek"
     },
-    {
-      name: "juicibox",
-      link: "dGR65RWwzg8"
+        {
+      name: "pulsewidth",
+      link: "TfInTQz0kdM"
     },
-    {
-      name: "bored",
-      link: "dGR65RWwzg8"
-    },
-    {
-      name: "hello goodbye",
-      link: "rblYSKz_VnI",
-    }
   ],
 
 
@@ -168,9 +165,10 @@ export const discos = {
       link: "L_jWHffIx5E"
     },
     {
-      name: "pulsewidth",
-      link: "TfInTQz0kdM"
+      name: "my generation",
+      link: "BE9CXWV1alg"
     },
+
     {
       name: "keloke",
       link: "IusaPOwrfBc"
@@ -179,8 +177,10 @@ export const discos = {
 
 
 
+
+
   //  CALMAO
-  8:[
+  8 : [
         {
       name: "strewberry",
       link: "HtUH9z_Oey8",
