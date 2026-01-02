@@ -5,7 +5,7 @@ import { Analytics } from "@vercel/analytics/react";
 import YouTube from "react-youtube";
 
 function App() {
-  const [respuesta , setRespuesta] = useState(0);
+  const [respuesta , setRespuesta] = useState("");
   const [album, setAlbum] = useState({ name: "", link: "" });
   const options = {
     playerVars: {
@@ -56,6 +56,7 @@ function App() {
           id="form"
           value={respuesta}
           onChange={(e) => setRespuesta(e.target.value)}
+          onFocus={() => setRespuesta("")}
           required
           min={1}
           max={10}

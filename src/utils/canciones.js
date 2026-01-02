@@ -16,7 +16,11 @@ export const discos = {
     {
       name: "jumper",
       link: "gRYZijLZR-Q"
-    }
+    },
+    {
+      name: "xtal",
+      link: "uXpK8CTIAxE"
+    },
   ],
 
 
@@ -64,13 +68,17 @@ export const discos = {
       link: "SCx_uiSdC_c",
     },
     {
+      name: "be quiet",
+      link: "KvknOXGPzCQ"
+    },
+    {
       name: "bloody roots",
       link: "F_6IjeprfEs"
     },
     {
-      name: "be quiet",
-      link: "KvknOXGPzCQ"
-    },
+      name: "in th eend",
+      link: "eVTXPUF4Oz4"
+    }
   ],
 
   
@@ -86,7 +94,6 @@ export const discos = {
       name: "theme bones",
       link: "zTuD8k3JvxQ"
     },
-
     {
       name: "black n 1",
       link: "JmijMVT3x"
@@ -101,7 +108,6 @@ export const discos = {
     },
  
   ],
-
 
 
 
@@ -131,7 +137,6 @@ export const discos = {
 
 
 
-
   //  BOREEED
   6: [
     {
@@ -153,26 +158,25 @@ export const discos = {
   // EUFORRICOOO
   7: [
     {
-      name: "rollin",
-      link: "RYnFIRc0k6E"
-    },
-    {
       name: "my own summer",
       "link": "XOzs1FehYOA&"
+    },
+    {
+      name: "i only said",
+      "link": "o8Iqy46aXuo"
     },
     {
       name: "all star",
       link: "L_jWHffIx5E"
     },
     {
+      name: "rollin",
+      link: "RYnFIRc0k6E"
+    },
+    {
       name: "my generation",
       link: "BE9CXWV1alg"
     },
-
-    {
-      name: "keloke",
-      link: "IusaPOwrfBc"
-    }
   ],
 
 
@@ -197,22 +201,16 @@ export const discos = {
   ],
 
 
-
-
   // CONFUNDIDOOO
   9:[
     {
       name: "flim",
       link: "-yNHlKAzyVA"
     },
-    // {
-    //   name: "a day in the life",
-    //   link: "usNsCeOV4GM",
-    // },  
-    // {
-    //   name: "stone in focus",
-    //   link: "q86g1aop6a8",
-    // },
+    {
+      name: "a day in the life",
+      link: "usNsCeOV4GM",
+    },
   ],
 
 
@@ -246,12 +244,3 @@ export const discos = {
 // triste
 // miedo
 // aburrido  
-
-// {
-//       name: "xtal",
-//       link: "uXpK8CTIAxE"
-//     },
-//     {
-//       name: "in th eend",
-//       link: "eVTXPUF4Oz4"
-//     }
